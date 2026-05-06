@@ -3,6 +3,8 @@
 # Flet 기초
 
 https://nano5.notion.site/Flet-34fdaf211d428077aec0f5d2cff2c1a9?source=copy_link
+<img width="912" height="740" alt="image" src="https://github.com/user-attachments/assets/3ef9d4ca-232a-4cda-9166-4184052ff776" />
+
 
 
 ---
